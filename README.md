@@ -1,10 +1,10 @@
-# Pitt 2026 Graduation Countdown Timer
+# Graduation Countdown Timer
 
 A small Arduino project that counts down the days until graduation and shows the count on an OLED display. An onboard real-time clock keeps the date even when the Arduino is powered off, so the countdown stays accurate.
 
-<p><img src="docs/photo1.jpg" width="420" alt="Countdown timer running" /></p>
-<p><img src="docs/photo2.jpg" width="420" alt="Full breadboard wiring" /></p>
-<p><img src="docs/photo3.jpg" width="260" alt="Close-up of the OLED display" /></p>
+<p><img src="docs/photo1.jpg" width="420" alt="Initial Hello World test on the OLED display" /></p>
+<p><img src="docs/photo2.jpg" width="420" alt="Full breadboard setup running the graduation countdown" /></p>
+<p><img src="docs/photo3.jpg" width="260" alt="Close-up of the OLED showing the countdown" /></p>
 
 ## How it works
 
